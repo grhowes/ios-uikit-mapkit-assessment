@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.98458041136354,
+          -34.98520411042454
+        ]
+      },
+      "properties": {
+        "name": "Alpha"
+      },
+      "id": "2298eb8d-255e-4198-a20c-cc9c2eac0cf7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.09898354941409,
+          45.042099781891125
+        ]
+      },
+      "properties": {
+        "name": "Bravo"
+      },
+      "id": "a3a2d144-4d0e-4bec-9773-4566f74846ba"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.42362,
+          -57.98449
+        ]
+      },
+      "properties": {
+        "name": "Charlie"
+      },
+      "id": "84e0c359-1e8a-434a-963a-613771dbe2c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta"
+      },
+      "id": "50a5f829-0955-4c66-82b0-61b0606309e9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9140625,
+          56.75272287205736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Echo"
+      },
+      "id": "2abca2a7-d768-4db2-95e2-09002df94362",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.179687499999996,
+          -37.99616267972812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxtrot"
+      },
+      "id": "6b9fdafb-4d9b-4255-aa1a-2c52a1e597b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.4296875,
+          -4.915832801313164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golf"
+      },
+      "id": "14147ae6-0852-4a46-92e4-8fcc037562b1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.984375,
+          38.8225909761771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel"
+      },
+      "id": "d8010c95-e91b-4f53-b687-5c9e368ab582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6640625,
+          -30.44867367928756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India"
+      },
+      "id": "83c49015-d46b-4636-9e06-644c8e7e9c88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7734375,
+          68.39918004344189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juliett"
+      },
+      "id": "1dbca7db-05fa-419f-9654-a7587eaaf5a7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.515625,
+          30.14512718337613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilo"
+      },
+      "id": "633fdb3a-f696-4227-bc33-a5cfb80f90a9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.078125,
+          -39.368279149160124
+        ]
+      }
+    }
+  ]
+}
