@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21A63D8426FE925300515405 /* MapFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A63D8326FE925300515405 /* MapFeature.swift */; };
+		21A63D8726FF65DB00515405 /* MapFeatureModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A63D8626FF65DB00515405 /* MapFeatureModel.swift */; };
+		21D24A922700B9A20008FE91 /* Locatable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D24A912700B9A20008FE91 /* Locatable.swift */; };
 		92148EBD26FCC2FC00A8A14B /* Detail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92148EBC26FCC2FC00A8A14B /* Detail.storyboard */; };
 		92148EBF26FCC54900A8A14B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92148EBE26FCC54900A8A14B /* DetailViewController.swift */; };
 		92992DA026CD623A0048A18E /* GeneratedMocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92992D9F26CD623A0048A18E /* GeneratedMocks.swift */; };
@@ -36,6 +39,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		21A63D8326FE925300515405 /* MapFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapFeature.swift; path = AcmeMap/DataModel/MapFeature.swift; sourceTree = SOURCE_ROOT; };
+		21A63D8626FF65DB00515405 /* MapFeatureModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapFeatureModel.swift; sourceTree = "<group>"; };
+		21D24A912700B9A20008FE91 /* Locatable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locatable.swift; sourceTree = "<group>"; };
 		92148EBC26FCC2FC00A8A14B /* Detail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Detail.storyboard; sourceTree = "<group>"; };
 		92148EBE26FCC54900A8A14B /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		92992D9F26CD623A0048A18E /* GeneratedMocks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneratedMocks.swift; sourceTree = "<group>"; };
@@ -76,6 +82,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		21A63D8526FF65BB00515405 /* DataModel */ = {
+			isa = PBXGroup;
+			children = (
+				21A63D8326FE925300515405 /* MapFeature.swift */,
+				21A63D8626FF65DB00515405 /* MapFeatureModel.swift */,
+				21D24A912700B9A20008FE91 /* Locatable.swift */,
+			);
+			path = DataModel;
+			sourceTree = "<group>";
+		};
 		92992D9E26CD62320048A18E /* Mocks */ = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				9299436926CD43B000B58B13 /* AppDelegate.swift */,
+				21A63D8526FF65BB00515405 /* DataModel */,
 				9299437226CD43B000B58B13 /* Assets.xcassets */,
 				92148EBC26FCC2FC00A8A14B /* Detail.storyboard */,
 				92148EBE26FCC54900A8A14B /* DetailViewController.swift */,
@@ -276,8 +293,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9299436E26CD43B000B58B13 /* MainViewController.swift in Sources */,
+				21A63D8426FE925300515405 /* MapFeature.swift in Sources */,
 				9299436A26CD43B000B58B13 /* AppDelegate.swift in Sources */,
+				21A63D8726FF65DB00515405 /* MapFeatureModel.swift in Sources */,
 				9299436C26CD43B000B58B13 /* SceneDelegate.swift in Sources */,
+				21D24A922700B9A20008FE91 /* Locatable.swift in Sources */,
 				92148EBF26FCC54900A8A14B /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
